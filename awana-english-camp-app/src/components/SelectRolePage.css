@@ -1,0 +1,19 @@
+.select-role-page {
+  background: url('../../public/backgroundImg.jpg') center/cover no-repeat;
+  justify-content: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.select_btn {
+  background-image: url('../../public/button.png');
+  background-position: center;
+  background-size: auto;
+  width: 200px;
+  height: 50px;
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 16px;
+}

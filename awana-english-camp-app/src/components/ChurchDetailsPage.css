@@ -1,0 +1,20 @@
+#lists {
+  width: auto;
+  max-height: 70vh; /* 스크롤 가능한 최대 높이 설정 */
+  overflow-y: auto; /* 세로 스크롤 활성화 */
+  padding: 10px;
+  border: 1px solid #000000;
+  border-radius: 10px;
+  background-color: rgba(107, 139, 209, 0.5);
+}
+
+#studentlists {
+  font-size: 1.2em;
+  padding-left: 10px;
+  padding-bottom: 15px;
+}
+#index{
+  font-size: 1.2em;
+  padding-left: 10px;
+  margin-bottom:10px;
+}

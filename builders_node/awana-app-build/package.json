@@ -1,0 +1,23 @@
+{
+  "name": "awanaenglishcamp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ph22why/AwanaEnglishCamp.git"
+  },
+  "author": "pheewhy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ph22why/AwanaEnglishCamp/issues"
+  },
+  "homepage": "https://github.com/ph22why/AwanaEnglishCamp#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "react-player": "^2.16.0"
+  }
+}

@@ -1,0 +1,15 @@
+.footer {
+    position: relative;
+    bottom: 0;
+    width: 160px;
+    background-color: rgba(241, 241, 241, 0);
+    text-align: center;
+    padding: 40px 0;
+  }
+  
+  .footer-image {
+    margin-top: 40px;
+    max-width: 100%;
+    height: auto;
+  }
+  
